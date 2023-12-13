@@ -1,0 +1,51 @@
+.FirstSectionWrapper {
+  background: #151934;
+  position: relative;
+  padding: 70px 0;
+}
+
+.FirsSectionBlur {
+  width: 274px;
+  height: 226.032px;
+  border-radius: 274px;
+  background: #7214ff;
+  filter: blur(250px);
+  position: absolute;
+  left: 0;
+  bottom: 50%;
+  top: 50%;
+}
+
+.FirsSectionBlur2 {
+  width: 190px;
+  height: 156.737px;
+  border-radius: 274px;
+  background: #32cafd;
+  filter: blur(195px);
+  position: absolute;
+  right: 0;
+  bottom: 70%;
+  top: 30%;
+}
+
+.FirstSectionHeading {
+  text-align: center !important;
+  font-family: 'Satoshi', sans-serif !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  letter-spacing: -1.92px !important;
+  background: linear-gradient(180deg, #f6f6f7 0%, #7e808f 100%) !important;
+  background-clip: text !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+.FirstSectionSubtitle {
+  color: #8f9bb7 !important;
+  text-align: center !important;
+  font-family: 'Satoshi', sans-serif !important;
+  font-size: 18px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
+}
