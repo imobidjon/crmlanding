@@ -11,7 +11,7 @@ import Image6 from "../../assets/SeconSectionCard6.png";
 
 export default function SecondSection() {
   return (
-    <Box sx={{ background: "#151934" }}>
+    <Box sx={{ background: "#151934", py: {xs: 3, md: 12} }}>
       <div className="container">
         <Box
           sx={{
