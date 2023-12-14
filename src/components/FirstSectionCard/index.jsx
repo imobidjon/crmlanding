@@ -39,7 +39,7 @@ export default function FirstSectionCard() {
           <circle cx="37" cy="5" r="5" fill="#0E1330" />
         </svg>
       </Box>
-      <Box sx={{ px: 6, py: 4 }}>
+      <Box sx={{ px: {xs: 2, md:6}, py: 4 }}>
         <Box
           sx={{
             display: { xs: "block", md: "flex" },

@@ -1,4 +1,4 @@
-import { FirstSection } from "./Sections";
+import { FirstSection, SecondSection } from "./Sections";
 import Navbar from "./layout/Navbar";
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <Navbar />
       <FirstSection />
+      <SecondSection />
     </div>
   );
 }
