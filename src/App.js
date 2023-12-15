@@ -1,4 +1,10 @@
-import { FirstSection, FourthSection, SecondSection, ThirdSection } from "./Sections";
+import {
+  FifthhSection,
+  FirstSection,
+  FourthSection,
+  SecondSection,
+  ThirdSection,
+} from "./Sections";
 import Navbar from "./layout/Navbar";
 
 function App() {
@@ -9,6 +15,7 @@ function App() {
       <SecondSection />
       <ThirdSection />
       <FourthSection />
+      <FifthhSection />
     </div>
   );
 }
